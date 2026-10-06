@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # LegalAssistant
-=======
+https://legal-assistant-sandy.vercel.app/
 # LexAssist AI — integration guide
 
 This workspace contains two parts of the app:
